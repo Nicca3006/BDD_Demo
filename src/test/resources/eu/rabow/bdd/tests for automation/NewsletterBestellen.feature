@@ -1,3 +1,4 @@
+@Newsletter
 Feature: Newsletter bestellen
   Als nutzende Person möchte ich einen Newsletter bestellen, um immer die aktuellsten Informationen zu erhalten.
   Hier kann jetzt noch ganz viel Information stehen...
